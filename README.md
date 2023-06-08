@@ -2,7 +2,7 @@
 
 ![](images/face_photo_example_processed.png)
 
-This project was done in terms of the __The 80th University Scientific Conference of Students and Postgraduates__. The text in Russian is available [here](papers/conference.pdf). There is also a more detailed version of this text [here](papers/full_version.pdf). 
+This project was done in terms of __The 80th University Scientific Conference of Students and Postgraduates__. The text in Russian is available [here](papers/conference.pdf). There is also a more detailed version of this text [here](papers/full_version.pdf). 
 
 Source jupyter notebook in English with main aspects of the project is available [here](./src.ipynb).
 
